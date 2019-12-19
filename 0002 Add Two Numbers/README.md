@@ -32,3 +32,29 @@ public:
     }
 };
 ```
+
+**Python代码**
+``` Python
+class Solution:
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        head = ListNode(0)
+        p = head
+        quot = 0
+        while l1 or l2 or quot != 0:
+            if l1:
+                quot += l1.val
+                l1 = l1.next
+            if l2:
+                quot += l2.val
+                l2 = l2.next
+            quot, rem = divmod(quot, 10)
+            p.next = ListNode(rem)
+            p = p.next
+
+        return head.next
+```
