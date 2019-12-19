@@ -2,14 +2,14 @@
 
 **(哈希表) O(n)**
 
-使用C++中的哈希表 ———— _unordered_map\<int\, int\> hash_
+使用C++中的哈希表 ———— _unordered_map<int, int> hash_ 
 
 遍历一遍nums数组，同时做两件事：
-1. 判断*target\-nums\[i\]*是否在哈希表中；
-2. 将*nums[i]*插入到哈希表中；
+1. 判断*target\-nums\[i\]* 是否在哈希表中；
+2. 将*nums[i]* 插入到哈希表中；
    
 **CPP代码**
-```
+``` CPP
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -26,7 +26,7 @@ public:
 ```
 
 **Python代码**
-```
+``` Python
 class Solution:
     def twoSum(self, nums, target):
         """

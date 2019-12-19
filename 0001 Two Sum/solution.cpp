@@ -19,7 +19,8 @@ int main()
 {
     Solution s;
     vector<int> v1{2,7,11,15};
-
+    int a;
+    cin >> a;
     assert( (s.twoSum(v1, 9) == vector<int>{0, 1}) );
     return 0;
 }
