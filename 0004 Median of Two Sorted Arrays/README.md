@@ -4,6 +4,7 @@
 
 只需将数组进行切分，一个长度为m的数组，从0到m共有m+1个位置可以切分。<br>
 ![1](img/1.png)<br>
+
 把数组A和数组B分别在i和j进行切割。<br>
 ![2](img/2.png)<br>
 将i的左边和j的左边组合成 *[左半部分]* ，将i的右边和j的右边合成 *[右半部分]*
@@ -12,6 +13,7 @@
   *左半部分的长度等于右半部分<br>
     `i + j = m - i + n - j` <br>
   *左半部分最大值小于右半部分最小值 `max(A[i - 1], B[j - 1]) <= min(A[i], B[i])`,那么，中位数表示为<br>
+
   `(max(A[i - 1], B[j - 1]) + min(A[i], B[j])) / 2`
 
 - 当A数组和B数组的总长度是奇数时，如果能够保证<br>
@@ -38,6 +40,7 @@
   ![5](img/5.png)
   - 切在最后边，当`i = m`时最小值为`B[j]`，当`j = n`时,最小值为`A[i]`<br>
   ![6](img/6.png)
+
    **i的变更方式使用二分法，初始化为中间值，然后折半找中间的**<br>
 
 **CPP代码**
@@ -95,6 +98,7 @@ class Solution:
                 if i==0: max_of_left = nums2[j-1]
                 elif j==0: max_of_left = nums1[i-1]
                 else:    max_of_left = max(nums1[i-1], nums2[j-1])
+
                 
                 if (m + n) % 2 == 1:   #奇数
                     return max_of_left
@@ -103,6 +107,6 @@ class Solution:
                 elif j == n: min_of_right = nums1[i]
                 else:
                     min_of_right = min(nums1[i], nums2[j])
-                
+
                 return (max_of_left + min_of_right) / 2.0
 ```
