@@ -53,3 +53,13 @@ Recode my LeetCode solutions.
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[CPP](0048&#32;Rotate&#32;Image/solution.cpp)|[Note](0048&#32;Rotate&#32;Image/README.md)|<font color="#EF6C00">中等</font>|`数组`|
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|[CPP](0049&#32;Group&#32;Anagrams/solution.cpp) [Python](0049&#32;Group&#32;Anagrams/solution.py)|[Note](0049&#32;Group&#32;Anagrams/README.md)|<font color="#EF6C00">中等</font>|`哈希表 字符串`|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/submissions/)|[CPP](0050&#32;Pow(x,&#32;n)/solution.cpp) |[Note](0050&#32;Pow(x,&#32;n)/README.md)|<font color="#EF6C00">中等</font>|`数学 二分查找`|
+|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)|[CPP](0051&#32;N-Queens/solution.cpp) |[Note](0051&#32;N-Queens/README.md)|<font color="#FF3366">困难</font>|`回溯算法`|
+|52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|[CPP](0052&#32;&#32;N-Queens&#32;II/solution.cpp) |[Note](0052&#32;&#32;N-Queens&#32;II/README.md)|<font color="#FF3366">困难</font>|`回溯算法`|
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[CPP](0053&#32;Maximum&#32;Subarray/solution.cpp) |[Note](0053&#32;Maximum&#32;Subarray/README.MD)|<font color="#43a047">简单</font>|`数组 分治算法 动态规划`|
+|54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)|[CPP](0054&#32;Spiral&#32;Matrix/solution.cpp)|[Note](0054&#32;Spiral&#32;Matrix/README.md)|<font color="#EF6C00">中等</font>|`数组`|
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|[CPP](0055&#32;Jump&#32;Game/solution.cpp)|[Note](0055&#32;Jump&#32;Game/README.md)|<font color="#EF6C00">中等</font>|`贪心算法 数组`|
+|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals/)|[CPP](0056&#32;Merge&#32;Intervals/solution.cpp)|[Note](0056&#32;Merge&#32;Intervals/README.md)|<font color="#EF6C00">中等</font>|`排序 数组`|
+|57|[插入区间](https://leetcode-cn.com/problems/insert-interval/)|[CPP](0057&#32;Insert&#32;Interval/solution.cpp) |[Note](0057&#32;Insert&#32;Interval/README.md)|<font color="#FF3366">困难</font>|`排序 数组`|
+|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[CPP](0058&#32;Length&#32;of&#32;Last&#32;Word/solution.cpp) |[Note](0058&#32;Length&#32;of&#32;Last&#32;Word/README.md)|<font color="#43a047">简单</font>|`字符串`|
+|59|[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|[CPP](0059&#32;Spiral&#32;Matrix&#32;II/solution.cpp) |[Note](0059&#32;Spiral&#32;Matrix&#32;II/README.md)|<font color="#43a047">简单</font>|`数组`|
+|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)|[CPP](0060&#32;Permutation&#32;Sequence/solution.cpp) [Python](0060&#32;Permutation&#32;Sequence/solution.py)|[Note](0060&#32;Permutation&#32;Sequence/README.md)|<font color="#EF6C00">中等</font>|`数学 回溯算法`|
