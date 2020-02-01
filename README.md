@@ -103,3 +103,4 @@ Recode my LeetCode solutions.
 |98|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[CPP](0098&#32;Validate&#32;Binary&#32;Search&#32;Tree/solution.cpp) |[Note](0098&#32;Validate&#32;Binary&#32;Search&#32;Tree/README.md)|<font color="#EF6C00">中等</font>|`树 深度优先搜索`|
 |99|[恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)|[CPP](0099&#32;Recover&#32;Binary&#32;Search&#32;Tree/solution.cpp) |[Note](0099&#32;Recover&#32;Binary&#32;Search&#32;Tree/README.md)|<font color="#FF3366">困难</font>|`树 深度优先遍历`|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[CPP](0100&#32;Same&#32;Tree/solution.cpp) |[Note](0100&#32;Same&#32;Tree/README.md)|<font color="#43a047">简单</font>|`树 深度优先遍历`|
+|101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|[CPP](0101%20Symmetric%20Tree/soution.cpp) |[Note](0101%20Symmetric%20Tree/README.md)|<font color="#43a047">简单</font>|`树 深度优先搜索 广度优先搜索`|
