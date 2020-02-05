@@ -126,3 +126,11 @@ Recode my LeetCode solutions.
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[CPP](0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp) |[Note](0121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)|<font color="#43a047">简单</font>|`数组 动态规划`|
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[CPP](0122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.cpp) |[Note](0122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)|<font color="#43a047">简单</font>|`贪心算法 数组`|
 |123|[买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|[CPP](0123%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/solution.cpp) |[Note](0123%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/README.md)|<font color="#FF3366">困难</font>|`数组 动态规划`|
+|124|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[CPP](0124%20Binary%20Tree%20Maximum%20Path%20Sum/solution.cpp) |[Note](0124%20Binary%20Tree%20Maximum%20Path%20Sum/README.md)|<font color="#FF3366">困难</font>|`树 深度优先搜索`|
+|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[CPP](0125%20Valid%20Palindrome/solution.cpp) |[Note](0125%20Valid%20Palindrome/README.md)|<font color="#43a047">简单</font>|`双指针 字符串`|
+|126|[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/)|[CPP](0126%20Word%20Ladder%20II/solution.cpp) |[Note](0126%20Word%20Ladder%20II/README.md)|<font color="#FF3366">困难</font>|`广度优先搜索 数组 字符串 回溯算法`|
+|128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[CPP](0128%20Longest%20Consecutive%20Sequence/solution.cpp) |[Note](0128%20Longest%20Consecutive%20Sequence/README.md)|<font color="#FF3366">困难</font>|`并查集 数组`|
+|129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|[CPP](0129%20Sum%20Root%20to%20Leaf%20Numbers/solution.cpp) |[Note](0129%20Sum%20Root%20to%20Leaf%20Numbers/README.md)|<font color="#EF6C00">中等</font>|`树 深度优先搜索`|
+|130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)|[CPP](0130%20Surrounded%20Regions/solution.cpp) |[Note](0130%20Surrounded%20Regions/README.md)|<font color="#EF6C00">中等</font>|`深度优先搜索 广度优先搜索 并查集`|
+
+
