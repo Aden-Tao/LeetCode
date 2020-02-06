@@ -132,5 +132,13 @@ Recode my LeetCode solutions.
 |128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[CPP](0128%20Longest%20Consecutive%20Sequence/solution.cpp) |[Note](0128%20Longest%20Consecutive%20Sequence/README.md)|<font color="#FF3366">困难</font>|`并查集 数组`|
 |129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|[CPP](0129%20Sum%20Root%20to%20Leaf%20Numbers/solution.cpp) |[Note](0129%20Sum%20Root%20to%20Leaf%20Numbers/README.md)|<font color="#EF6C00">中等</font>|`树 深度优先搜索`|
 |130|[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)|[CPP](0130%20Surrounded%20Regions/solution.cpp) |[Note](0130%20Surrounded%20Regions/README.md)|<font color="#EF6C00">中等</font>|`深度优先搜索 广度优先搜索 并查集`|
-
-
+|131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)|[CPP](0131%20Palindrome%20Partitioning/solution.cpp) |[Note](0131%20Palindrome%20Partitioning/README.md)|<font color="#EF6C00">中等</font>|`回溯算法`|
+|132|[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|[CPP](0132%20Palindrome%20Partitioning%20II/solution.cpp) |[Note](0132%20Palindrome%20Partitioning%20II/README.md)|<font color="#FF3366">困难</font>|`动态规划`|
+|133|[克隆图](https://leetcode-cn.com/problems/clone-graph/)|[CPP](0133%20Clone%20Graph/solution.cpp) |[Note](0133%20Clone%20Graph/README.md)|<font color="#EF6C00">中等</font>|`深度优先搜索 广度优先搜索 图`|
+|134|[加油站](https://leetcode-cn.com/problems/gas-station/)|[CPP](0134%20Gas%20Station/solution.cpp) |[Note](0134%20Gas%20Station/README.md)|<font color="#EF6C00">中等</font>|`贪心算法`|
+|135|[分发糖果](https://leetcode-cn.com/problems/candy/)|[CPP](0135%20Candy/solution.cpp) [Python](0135%20Candy/solution.py)|[Note](0135%20Candy/README.md)|<font color="#FF3366">困难</font>|`动态规划`|
+|136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[CPP](0136%20Single%20Number/solution.cpp) |[Note](0136%20Single%20Number/README.md)|<font color="#43a047">简单</font>|`位运算 哈希表`|
+|137|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[CPP](0137%20Single%20Number%20II/solution.cpp) |[Note](0137%20Single%20Number%20II/README.md)|<font color="#EF6C00">中等</font>|`位运算`|
+|138|[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[CPP](0138%20Copy%20List%20with%20Random%20Pointer/solution.cpp) |[Note](0138%20Copy%20List%20with%20Random%20Pointer/README.md)|<font color="#EF6C00">中等</font>|`哈希表 链表`|
+|139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|[CPP](0139%20Word%20Break/solution.cpp) |[Note](0139%20Word%20Break/README.md)|<font color="#EF6C00">中等</font>|`动态规划`|
+|140|[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|[CPP](0140%20Word%20Break%20II/solution.cpp) [Python](0140%20Word%20Break%20II/solution.py)|[Note](0140%20Word%20Break%20II/README.md)|<font color="#FF3366">困难</font>|`动态规划 回溯算法`|
