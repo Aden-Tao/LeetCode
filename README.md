@@ -150,3 +150,5 @@ Recode my LeetCode solutions.
 |146|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[CPP](0146%20LRU%20Cache/solution.cpp) |[Note](0146%20LRU%20Cache/README.md)|<font color="#EF6C00">中等</font>|`设计`|
 |147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/submissions/)|[CPP](0147%20Insertion%20Sort%20List/solution.cpp) |[Note](0147%20Insertion%20Sort%20List/README.md)|<font color="#EF6C00">中等</font>|`排序 链表`|
 |148|[排序链表](https://leetcode-cn.com/problems/sort-list/)|[CPP](0148%20Sort%20List/solution.cpp) |[Note](0148%20Sort%20List/README.md)|<font color="#EF6C00">中等</font>|`排序 链表`|
+|149|[直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)|[CPP](0149%20Max%20Points%20on%20a%20Line/solution.cpp) |[Note](0149%20Max%20Points%20on%20a%20Line/README.md)|<font color="#FF3366">困难</font>|`哈希表 数学`|
+|150|[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|[CPP](0150%20Evaluate%20Reverse%20Polish%20Notation/solution.cpp) |[Note](0150%20Evaluate%20Reverse%20Polish%20Notation/README.md)|<font color="#EF6C00">中等</font>|`栈`|
