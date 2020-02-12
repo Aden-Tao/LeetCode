@@ -184,3 +184,12 @@ Recode my LeetCode solutions.
 |189|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)|[CPP](0189%20Rotate%20Array/solution.cpp) |[Note](0189%20Rotate%20Array/README.md)|<font color="#43a047">简单</font>|`数组`|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|[CPP](0190%20Reverse%20Bits/solution.cpp) |[Note](0190%20Reverse%20Bits/README.md)|<font color="#43a047">简单</font>|`位运算`|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)|[CPP](0191%20Number%20of%201%20Bits/solution.cpp) |[Note](0191%20Number%20of%201%20Bits/README.md)|<font color="#43a047">简单</font>|`位运算`|
+|192|[统计词频](https://leetcode-cn.com/problems/word-frequency/)| |[Note](0192%20Word%20Frequency/README.md)|<font color="#EF6C00">中等</font>|`Shell`|
+|193|[有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)| |[Note](0193%20Valid%20Phone%20Numbers/README.md)|<font color="#43a047">简单</font>|`Shell`|
+|194|[转置文件](https://leetcode-cn.com/problems/transpose-file/)| |[Note](0194%20Transpose%20File/README.md)|<font color="#EF6C00">中等</font>|`Shell`|
+|195|[第十行](https://leetcode-cn.com/problems/tenth-line/comments/)| |[Note](0195%20Tenth%20Line/README.md)|<font color="#43a047">简单</font>|`Shell`|
+|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)| |[Note](0196%20Delete%20Duplicate%20Emails/README.md)|<font color="#43a047">简单</font>|`数据库`|
+|197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)| |[Note](0197%20Rising%20Temperature/README.md)|<font color="#43a047">简单</font>|`数据库`|
+|198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[CPP](0198%20House%20Robber/solution.cpp) |[Note](0198%20House%20Robber/README.md)|<font color="#43a047">简单</font>|`动态规划`|
+|199|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|[CPP](0199%20Binary%20Tree%20Right%20Side%20View/solution.cpp) |[Note](0199%20Binary%20Tree%20Right%20Side%20View/README.md)|<font color="#EF6C00">中等</font>|`树 深度优先搜索 广度优先搜索`|
+|200|[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)|[CPP](0200%20Number%20of%20Islands/solution.cpp) |[Note](0200%20Number%20of%20Islands/README.md)|<font color="#EF6C00">中等</font>|`深度优先搜索 广度优先搜索 并查集`|
